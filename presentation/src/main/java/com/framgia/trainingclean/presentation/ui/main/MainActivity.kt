@@ -1,4 +1,4 @@
-package com.framgia.trainingclean.presentation.ui
+package com.framgia.trainingclean.presentation.ui.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
