@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Clean_MovieDB</string>
+
+    <string name="format_yyyy_MM_dd">yyyy-MM-dd</string>
+    <string name="format_yyyy_MM_dd_dot">yyyy.MM.dd</string>
 </resources>

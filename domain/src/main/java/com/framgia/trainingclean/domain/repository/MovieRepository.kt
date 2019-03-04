@@ -5,5 +5,5 @@ import com.framgia.trainingclean.domain.repository.base.Repository
 import io.reactivex.Single
 
 interface MovieRepository : Repository {
-    fun getMoviePopular(page: Int): Single<Movie>
+    fun getMoviePopular(page: Int): Single<List<Movie>>
 }
