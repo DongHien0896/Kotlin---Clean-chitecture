@@ -1,10 +1,10 @@
 package com.framgia.trainingclean.presentation.model
 
 import android.content.res.Resources
+import com.framgia.trainingclean.R
 import com.framgia.trainingclean.data.utils.toTimeLong
 import com.framgia.trainingclean.data.utils.toTimeString
 import com.framgia.trainingclean.domain.model.Movie
-import com.framgia.trainingclean.presentation.R
 import com.framgia.trainingclean.presentation.model.base.ItemMapper
 import com.framgia.trainingclean.presentation.model.base.ModelItem
 

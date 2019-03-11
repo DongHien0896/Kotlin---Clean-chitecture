@@ -2,7 +2,7 @@ package com.framgia.trainingclean.presentation.ui.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.framgia.trainingclean.presentation.R
+import com.framgia.trainingclean.R
 
 class MainActivity : AppCompatActivity() {
 
