@@ -1,6 +1,6 @@
 package com.framgia.trainingclean.presentation.ui.home
 
-import android.arch.lifecycle.MutableLiveData
+import androidx.lifecycle.MutableLiveData
 import com.framgia.trainingclean.domain.usecase.movie.GetMovieUseCase
 import com.framgia.trainingclean.presentation.model.MovieItem
 import com.framgia.trainingclean.presentation.model.MovieItemMapper

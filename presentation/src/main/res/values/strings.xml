@@ -3,4 +3,9 @@
 
     <string name="format_yyyy_MM_dd">yyyy-MM-dd</string>
     <string name="format_yyyy_MM_dd_dot">yyyy.MM.dd</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_oops">OOPS!</string>
+    <string name="msg_no_network">No network!</string>
+    <string name="title_try_again">Please! Try again!</string>
 </resources>

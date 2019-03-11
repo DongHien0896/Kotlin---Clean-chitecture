@@ -1,7 +1,7 @@
 package com.framgia.trainingclean.presentation.ui.base
 
-import android.databinding.ViewDataBinding
 import android.view.ViewGroup
+import androidx.databinding.ViewDataBinding
 import androidx.recyclerview.widget.AsyncDifferConfig
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
