@@ -12,7 +12,6 @@ val appModule: Module = module {
     single<SchedulerProvider> { AppSchedulerProvider() }
 }
 
-
 val modules: List<Module> = listOf(
     entityMapperModule,
     networkModule,
